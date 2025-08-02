@@ -120,14 +120,6 @@ The project helped improve my understanding of Python control structures, list o
 
 ---
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=embikaa&show_icons=true&count_private=true&theme=radical" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=embikaa&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=embikaa&theme=radical" alt="GitHub Streak" />
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=embikaa&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
